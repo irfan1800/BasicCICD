@@ -22,6 +22,6 @@ public class SampleTest01 {
 	}
 	public void Test004()
 	{
-		System.out.println("This is test002");
+		System.out.println("This is test0025555");
 	}
 }
